@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\Andrew\source\repos\Lab10.1\Lab10.1\functions.h(45,33): warning C4133: '=': incompatible types - from 'int *' to 'books *'
+C:\Users\Andrew\source\repos\Lab10.1\Lab10.1\functions.h(43,1): warning C4133: 'initializing': incompatible types - from 'books *' to 'int *'
+C:\Users\Andrew\source\repos\Lab10.1\Lab10.1\functions.h(136,5): warning C4013: 'gets' undefined; assuming extern returning int
+  Lab10.1.vcxproj -> C:\Users\Andrew\source\repos\Lab10.1\x64\Debug\Lab10.1.exe
